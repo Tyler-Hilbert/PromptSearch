@@ -4,4 +4,4 @@ PromptSearch solves this by curating a database of quality prompts to search and
 
 ### Demo
 Check out our demo, but please be patient, our database is still small and most likely won't find a similar prompt.  
-https://tyler-hilbert.github.io/PromptLab/index.html
+https://tyler-hilbert.github.io/PromptSearch/index.html
