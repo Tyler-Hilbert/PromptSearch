@@ -83,13 +83,27 @@ data = [
 data = JSON.parse(data).prompts
 
 function search() {
-	var inPrompt = $('#prompt-in').val();
+	var inPrompt = $('#prompt-in').val().toLowerCase();
 	var firstWord = inPrompt.replace(/ .*/,''); // FIXME search for more than 1 word
 	var outPrompt = "We apologize, but our database is still new and growing and we do not seem to have any related prompts. Feel free to reach out to TylerJoshuaHilbert@gmail.com to make requests"
+	var hasCache = false
+	var id = -1
 	for (const prompt of data) { 
-		if (prompt.prompt.includes(firstWord)) {
-			outPrompt = prompt.prompt 
+		if (prompt.prompt.toLowerCase().includes(firstWord) || prompt.name.toLowerCase().includes(firstWord)) {
+			outPrompt = prompt.prompt
+			hasCache = prompt.cached
+			id = prompt.id
 		}
 	}
 	$('#prompt-out').html(outPrompt);
+	if (hasCache == true) {
+		var c1 = "cached_images/" + id + "-1.jpg"
+		var c2 = "cached_images/" + id + "-2.jpg"
+		var c3 = "cached_images/" + id + "-3.jpg"
+		var c4 = "cached_images/" + id + "-4.jpg"
+		$('#cache-1').attr("src",c1);
+		$('#cache-2').attr("src",c2);
+		$('#cache-3').attr("src",c3);
+		$('#cache-4').attr("src",c4);
+	}
 }
