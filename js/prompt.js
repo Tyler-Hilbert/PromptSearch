@@ -1,4 +1,4 @@
-let data = [
+data = [
 	{
 		"id": 1,
 		"name": "Red & Blue tribal man",
