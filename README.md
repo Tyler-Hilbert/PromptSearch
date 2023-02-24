@@ -1,3 +1,7 @@
-# PromptLab -- Github for Generative AI Prompts
+# PromptSearch. Save resources by searching for already tested prompts
 Finding quality prompts has become a new and growing issue in generative AI.  
-PromptLab allows users to store, search for, cache and update quality prompts.
+PromptSearch solves this by curating a database of quality prompts to search and view cached outputs.
+
+### Demo
+Check out our demo, but please be patient, our database is still small and most likely won't find a similar prompt.  
+https://tyler-hilbert.github.io/PromptLab/index.html
