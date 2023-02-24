@@ -85,11 +85,11 @@ data = JSON.parse(data).prompts
 function search() {
 	var inPrompt = $('#prompt-in').val();
 	var firstWord = inPrompt.replace(/ .*/,''); // FIXME search for more than 1 word
-
+	var outPrompt = "We apologize, but our database is still new and growing and we do not seem to have any related prompts. Feel free to reach out to TylerJoshuaHilbert@gmail.com to make requests"
 	for (const prompt of data) { 
 		if (prompt.prompt.includes(firstWord)) {
-			console.log(prompt.prompt); 
-			$('#prompt-out').html(prompt.prompt);
+			outPrompt = prompt.prompt 
 		}
 	}
+	$('#prompt-out').html(outPrompt);
 }
