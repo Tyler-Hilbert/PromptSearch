@@ -79,6 +79,14 @@ function search() {
 			"model": "Stable Diffusion",
 			"consistency_score": 8,
 			"cached": true
+		},
+		{
+			"id": 11,
+			"name": "Turtle",
+			"prompt": "award winning high resolution photo of a turtle",
+			"model": "Stable Diffusion",
+			"consistency_score": 9,
+			"cached": true
 		}
 	]
 
