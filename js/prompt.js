@@ -6,7 +6,7 @@ function search() {
 			"prompt": "portrait photo of a asia old warrior chief, tribal panther make up, blue on red, side profile, looking away, serious eyes, 50mm portrait photography, hard rim lighting photography–beta –ar 2:3 –beta –upbeta –upbeta",
 			"model": "Stable Diffusion",
 			"consistency_score": 10,
-			"cached": false
+			"cached": true
 		},
 		{
 			"id": 2,
@@ -38,7 +38,7 @@ function search() {
 			"prompt": "ultrarealistic, (native american old woman ) portrait, cinematic lighting, award winning photo, no color, 80mm lense –beta –upbeta –upbeta",
 			"model": "Stable Diffusion",
 			"consistency_score": 10,
-			"cached": false
+			"cached": true
 		},
 		{
 			"id": 6,
@@ -46,7 +46,7 @@ function search() {
 			"prompt": "portrait photo headshot by mucha, sharp focus, elegant, render, octane, detailed, award winning photography, masterpiece, rim lit",
 			"model": "Stable Diffusion",
 			"consistency_score": 8,
-			"cached": false
+			"cached": true
 		},
 		{
 			"id": 7,
