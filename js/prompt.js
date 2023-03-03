@@ -87,6 +87,14 @@ function search() {
 			"model": "Stable Diffusion",
 			"consistency_score": 9,
 			"cached": true
+		},
+		{
+			"id": 12,
+			"name": "Haunted Woods",
+			"prompt": "A hauntingly beautiful oil painting of a misty forest, in the style of Caspar David Friedrich. The intricate and cinematic lighting adds depth and mystery to the serene landscape, while the sweeping brushstrokes evoke a sense of awe and wonder. By Caspar David Friedrich",
+			"model": "Stable Diffusion",
+			"consistency_score": 10,
+			"cached": true
 		}
 	]
 
