@@ -95,7 +95,15 @@ function search() {
 			"model": "Stable Diffusion",
 			"consistency_score": 10,
 			"cached": true
-		}
+		},
+		{
+			"id": 13,
+			"name": "People Sitting Sketch",
+			"prompt": "group of people in therapy, view from behind, pencil sketch",
+			"model": "Dalle 2",
+			"consistency_score": 9,
+			"cached": true
+		},
 	]
 
 	var inPrompt = $('#prompt-in').val().toLowerCase();
@@ -103,14 +111,17 @@ function search() {
 	var outPrompt = "We apologize, but our database is still new and growing and we do not seem to have any related prompts. Feel free to reach out to TylerJoshuaHilbert@gmail.com to make requests. In the mean time, feel free to try one from the examples list above."
 	var hasCache = false
 	var id = -1
+	model = ""
 	for (const prompt of data) { 
 		if (prompt.prompt.toLowerCase().includes(firstWord) || prompt.name.toLowerCase().includes(firstWord)) {
 			outPrompt = prompt.prompt
 			hasCache = prompt.cached
 			id = prompt.id
+			model = prompt.model
 		}
 	}
 	$('#prompt-out').html(outPrompt);
+	$('#model').html(model);
 	if (hasCache == true) {
 		var c1 = "cached_images/" + id + "-1.jpg"
 		var c2 = "cached_images/" + id + "-2.jpg"
@@ -119,6 +130,7 @@ function search() {
 		$('#cache-1').attr("src",c1);
 		$('#cache-2').attr("src",c2);
 		$('#cache-3').attr("src",c3);
+		$('#cache-4').attr("src",c4);
 		$('#cache-4').attr("src",c4);
 	} else {
 		$('#cache-1').attr("src","");
