@@ -104,6 +104,14 @@ function search() {
 			"consistency_score": 9,
 			"cached": true
 		},
+		{
+			"id": 14,
+			"name": "Valley of roses",
+			"prompt": "Garden+factory,Tall factory,Many red rose,A few roses,clouds, ultra wide shot, atmospheric, hyper realistic, 8k, epic composition, cinematic, octane render, artstation landscape vista photography by Carr Clifton & Galen Rowell, 16K resolution, Landscape veduta photo by Dustin Lefevre & tdraw, 8k resolution, detailed landscape painting by Ivan Shishkin, DeviantArt, Flickr, rendered in Enscape, Miyazaki, Nausicaa Ghibli, Breath of The Wild, 4k detailed post processing, artstation, rendering by octane, unreal –hd –ar 9:16",
+			"model": "Stable Diffusion",
+			"consistency_score": 10,
+			"cached": true
+		},
 	]
 
 	var inPrompt = $('#prompt-in').val().toLowerCase();
