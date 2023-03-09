@@ -127,13 +127,19 @@ function search() {
 	var outPrompt = "We apologize, but our database is still new and growing and we do not seem to have any related prompts. <a href='https://stablediffusionweb.com'>Click here to generate the prompt using stable diffuion</a>"
 	var hasCache = false
 	var id = -1
+	var score = -1
 	model = ""
 	for (const prompt of data) { 
 		if (prompt.prompt.toLowerCase().includes(firstWord) || prompt.name.toLowerCase().includes(firstWord)) {
-			outPrompt = prompt.prompt
-			hasCache = prompt.cached
-			id = prompt.id
-			model = prompt.model
+			if (
+				(!hasCache && prompt.hasCache) || prompt.consistency_score > score 
+			) {
+				outPrompt = prompt.prompt
+				hasCache = prompt.cached
+				score = prompt.consistency_score
+				id = prompt.id
+				model = prompt.model
+			}
 		}
 	}
 	$('#prompt-out').html(outPrompt);
