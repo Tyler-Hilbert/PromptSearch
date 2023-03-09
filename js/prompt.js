@@ -284,9 +284,11 @@ function search() {
 		},
 		{
 			"id": 43,
+			"name": "flying dog",
 			"prompt": "a cute magical flying dog, fantasy art drawn by disney concept artists, golden colour, high quality, highly detailed, elegant, sharp focus, concept art, character concepts, digital painting, mystery, adventure",
 			"model": "Stable Diffusion",
-			"cached": false
+			"consistency_score": 8,
+			"cached": true
 		},
 		{
 			"id": 44,
