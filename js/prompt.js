@@ -746,10 +746,10 @@ function search() {
 	}
 	$('#prompt-out').html(outPrompt);
 	$('#model').html(model);
-	$('#cache-1').attr("src","");
-	$('#cache-2').attr("src","");
-	$('#cache-3').attr("src","");
-	$('#cache-4').attr("src","");
+	$('#cache-1').attr("src","Logo.png");
+	$('#cache-2').attr("src","Logo.png");
+	$('#cache-3').attr("src","Logo.png");
+	$('#cache-4').attr("src","Logo.png");
 	if (hasCache == true) {
 		var c1 = "cached_images/" + id + "-1.jpg"
 		var c2 = "cached_images/" + id + "-2.jpg"
