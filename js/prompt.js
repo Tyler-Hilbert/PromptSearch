@@ -116,7 +116,7 @@ function search() {
 
 	var inPrompt = $('#prompt-in').val().toLowerCase();
 	var firstWord = inPrompt.replace(/ .*/,''); // FIXME search for more than 1 word
-	var outPrompt = "We apologize, but our database is still new and growing and we do not seem to have any related prompts. Feel free to reach out to TylerJoshuaHilbert@gmail.com to make requests. In the mean time, feel free to try one from the examples list above."
+	var outPrompt = "We apologize, but our database is still new and growing and we do not seem to have any related prompts. <a href='https://stablediffusionweb.com'>Click here to generate the prompt using stable diffuion</a>"
 	var hasCache = false
 	var id = -1
 	model = ""
