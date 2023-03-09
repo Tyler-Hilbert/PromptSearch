@@ -733,6 +733,7 @@ function search() {
 	model = ""
 	for (const prompt of data) { 
 		if (prompt.prompt.toLowerCase().includes(firstWord) || (typeof prompt.name !== 'undefined' && prompt.name.toLowerCase().includes(firstWord))) {
+			console.log(prompt.prompt)
 			if (
 				(!hasCache) || prompt.consistency_score > score 
 			) {
