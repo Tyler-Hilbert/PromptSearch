@@ -112,6 +112,14 @@ function search() {
 			"consistency_score": 10,
 			"cached": true
 		},
+		{
+			"id": 15,
+			"name": "Rocketship Launch",
+			"prompt": "Rocket lunch, rocket on the launch pad, concept art, low angle, high detail, warm lighting, volumetric, godrays, vivid, beautiful, trending on artstation, by Jordan grimmer, art greg rutkowski",
+			"model": "Stable Diffusion",
+			"consistency_score": 10,
+			"cached": true
+		},
 	]
 
 	var inPrompt = $('#prompt-in').val().toLowerCase();
