@@ -17164,7 +17164,14 @@ function search() {
 			"prompt": "Zdzislaw Beksinski art",
 			"model": "Stable Diffusion",
 			"cached": false
-		}
+		},
+		{
+			"id": 2356,
+			"name": "Women in the mounatins artistic painting",
+			"prompt": "cinematic, detailed, atmospheric, epic, concept art background mountains  cinematic epic + rule of thirds | 3 5 mm, 8 k,  atmospheric landscape (Agnes Cecile)",
+			"model": "Stable Diffusion",
+			"cached": true
+		},
 	]
 
 	var inPrompt = $('#prompt-in').val().toLowerCase();
