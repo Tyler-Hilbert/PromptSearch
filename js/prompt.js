@@ -17170,6 +17170,7 @@ function search() {
 			"name": "Women in the mounatins artistic painting",
 			"prompt": "cinematic, detailed, atmospheric, epic, concept art background mountains  cinematic epic + rule of thirds | 3 5 mm, 8 k,  atmospheric landscape (Agnes Cecile)",
 			"model": "Stable Diffusion",
+			"consistency_score": 7,
 			"cached": true
 		},
 	]
