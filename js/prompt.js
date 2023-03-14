@@ -16851,6 +16851,319 @@ function search() {
 			"prompt": "Zuchon, cute, funny, centered, award winning watercolor pen illustration, detailed, disney, isometric illustration, drawing, by Stephen Hillenburg, Matt Groening, Albert Uderzo",
 			"model": "Stable Diffusion",
 			"cached": false
+		},
+		{
+			"id": 2304,
+			"prompt": "Alan Lee art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2305,
+			"prompt": "Cyril Rolando art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2306,
+			"prompt": "David Mack art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2307,
+			"prompt": "Donato Giancola art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2308,
+			"prompt": "Greg Rutkowski art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2309,
+			"prompt": "Ismail Inceoglu art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2310,
+			"prompt": "John Berkey art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2311,
+			"prompt": "Michael Garmash art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2312,
+			"prompt": "Peter Mohrbacher art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2313,
+			"prompt": "Sparth art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2314,
+			"prompt": "Vincent Di Fate art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2315,
+			"prompt": "Akihiko Yoshida art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2316,
+			"prompt": "Artgerm art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2317,
+			"prompt": "Charlie Bowater art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2318,
+			"prompt": "Frank Frazetta art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2319,
+			"prompt": "Hsiao-Ron Cheng art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2320,
+			"prompt": "Ilya Kuvshinov art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2321,
+			"prompt": "Joshua Middleton art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2322,
+			"prompt": "Krenz Cushart art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2323,
+			"prompt": "Lois Van Baarle art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2324,
+			"prompt": "Makoto Shinkai art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2325,
+			"prompt": "Rossdraws art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2326,
+			"prompt": "Wenjun Lin art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2327,
+			"prompt": "Anna Dittmann art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2328,
+			"prompt": "Agnes Cecile art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2329,
+			"prompt": "Alphonse Mucha art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2330,
+			"prompt": "Audrey Kawasaki art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2331,
+			"prompt": "Boris Vallejo art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2332,
+			"prompt": "Carne Griffiths art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2333,
+			"prompt": "Conrad Roset art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2334,
+			"prompt": "JC Leyendecker art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2335,
+			"prompt": "Joseph Lorusso art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2336,
+			"prompt": "Jovana Rikalo art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2337,
+			"prompt": "Karol Bak art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2338,
+			"prompt": "Marco Mazzoni art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2339,
+			"prompt": "Miho Hirano art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2340,
+			"prompt": "Rebeca Saray art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2341,
+			"prompt": "Robert McGinnis art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2342,
+			"prompt": "Russ Mills art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2343,
+			"prompt": "Tom Bagshaw art",
+			"model": "Stable Diffusion",
+			"consistency_score": 10,
+			"cached": true
+		},
+		{
+			"id": 2344,
+			"prompt": "Tristan Eaton art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2345,
+			"prompt": "Ed Mell art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2346,
+			"prompt": "Jessica Rossier art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2347,
+			"prompt": "Hubert Robert art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2348,
+			"prompt": "Ian McQue art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2349,
+			"prompt": "Marc Simonetti art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2350,
+			"prompt": "Raphael Lacoste art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2351,
+			"prompt": "Bernie Wrightson art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2352,
+			"prompt": "H.R. Giger art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2353,
+			"prompt": "Richard Corben art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2354,
+			"prompt": "Wayne Barlowe art",
+			"model": "Stable Diffusion",
+			"cached": false
+		},
+		{
+			"id": 2355,
+			"prompt": "Zdzislaw Beksinski art",
+			"model": "Stable Diffusion",
+			"cached": false
 		}
 	]
 
