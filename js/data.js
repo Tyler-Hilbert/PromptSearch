@@ -17672,4 +17672,105 @@ var data = [
         "model": "Stable Diffusion",
         "cached": false
     },
+    {
+        "id": 2439,
+        "prompt": "very detailed, color, 100mm, (realistic photo:1.2), (photo portrait: 1.2), [amber heard:emma watson:0.5], futuristic car, white leather dress, 4k, city, busy market in japan, liam wong, blade runner 2049",
+        "model": "Stable Diffusion",
+        "consistency_score": 3,
+        "cached": true
+    },
+    {
+        "id": 2440,
+        "prompt": "eye level shot, (dome shaped:1.2) large temple, front gate, surrounded by tall futuristic cyberpunk buildings, 4k, artstation, blade runner, sunlight",
+        "model": "Stable Diffusion",
+        "consistency_score": 10,
+        "cached": true
+    },
+    {
+        "id": 2441,
+        "prompt": "a futuristic bedroom with large curved ceiling,  high windows,  (futuristic decor: 1), looking out to a far future cityscape, sunny outside, scifi, (neon cyberpunk light:1.0), blade runner, (hologram:1.4)",
+        "model": "Stable Diffusion",
+        "consistency_score": 10,
+        "cached": true
+    },
+    {
+        "id": 2442,
+        "prompt": "man in hoodies standing looking out of floor-to-ceiling windows, spacestation 2077, ceiling, beautiful galaxy outside, 4k, artstation, unreal engine, realistic, Futuristic, neon, intricate, vaporwave, futuristic hologram decor",
+        "model": "Stable Diffusion",
+        "consistency_score": 8,
+        "cached": true
+    },
+    {
+        "id": 2443,
+        "prompt": "still life, thanksgiving turkey meal, fancy candle, wine, gravy, pumpkins, realistic photography, decorative, grapes",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2444,
+        "prompt": "amber heard, (pop art:1.1), colorful spiral patterns, painting, (vibrant color palette:1.2). Intricate. Highly detailed, art by Steve Henderson",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2445,
+        "prompt": "(mage :1.3) in spiral lightning background, perfect beautiful face, realistic, full body, standing on ground, circuit board, in intricate clothing, elegant pose, fantasy, illustration, artstation",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2446,
+        "prompt": "(wizard :1.3) in spiral lightning background, perfect beautiful face, realistic, full body, standing on ground, circuit board, in intricate clothing, elegant pose, fantasy, illustration, artstation",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2447,
+        "prompt": "(warrior :1.3) in spiral lightning background, perfect beautiful face, realistic, full body, standing on ground, circuit board, in intricate clothing, elegant pose, fantasy, illustration, artstation",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2448,
+        "prompt": "(enchanter :1.3) in spiral lightning background, perfect beautiful face, realistic, full body, standing on ground, circuit board, in intricate clothing, elegant pose, fantasy, illustration, artstation",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2449,
+        "prompt": "(assassin :1.3) in spiral lightning background, perfect beautiful face, realistic, full body, standing on ground, circuit board, in intricate clothing, elegant pose, fantasy, illustration, artstation",
+        "model": "Stable Diffusion",
+        "consistency_score": 4,
+        "cached": true
+    },
+    {
+        "id": 2450,
+        "prompt": "(elf :1.3) in spiral lightning background, perfect beautiful face, realistic, full body, standing on ground, circuit board, in intricate clothing, elegant pose, fantasy, illustration, artstation",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2451,
+        "prompt": "(ranger :1.3) in spiral lightning background, perfect beautiful face, realistic, full body, standing on ground, circuit board, in intricate clothing, elegant pose, fantasy, illustration, artstation",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2452,
+        "prompt": "(summoner :1.3) in spiral lightning background, perfect beautiful face, realistic, full body, standing on ground, circuit board, in intricate clothing, elegant pose, fantasy, illustration, artstation",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2453,
+        "prompt": "close up angled view of glistening oiled, gemstones on dark blue silk with golden threads, ornate, intricate Exquisite details textures highly detailed digital painting, bokeh, dramatic lighting",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2454,
+        "prompt": "town architecture, river, highly detailed, hyper-detailed architecture, photorealistic, octane render, unreal engine, digital painting hyperdetailed 8k",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
 ]
