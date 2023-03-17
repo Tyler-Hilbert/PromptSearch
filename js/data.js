@@ -16852,320 +16852,320 @@ var data = [
         "cached": false
     },
     {
-        "id": 2304,
+        "id": 2804,
         "prompt": "Alan Lee art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2305,
+        "id": 2805,
         "prompt": "Cyril Rolando art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2306,
+        "id": 2806,
         "prompt": "David Mack art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2307,
+        "id": 2807,
         "prompt": "Donato Giancola art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2308,
+        "id": 2808,
         "prompt": "Greg Rutkowski art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2309,
+        "id": 2809,
         "prompt": "Ismail Inceoglu art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2310,
+        "id": 2910,
         "prompt": "John Berkey art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2311,
+        "id": 2911,
         "prompt": "Michael Garmash art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2312,
+        "id": 2912,
         "prompt": "Peter Mohrbacher art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2313,
+        "id": 2913,
         "prompt": "Sparth art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2314,
+        "id": 2914,
         "prompt": "Vincent Di Fate art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2315,
+        "id": 2915,
         "prompt": "Akihiko Yoshida art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2316,
+        "id": 2916,
         "prompt": "Artgerm art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2317,
+        "id": 2917,
         "prompt": "Charlie Bowater art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2318,
+        "id": 2918,
         "prompt": "Frank Frazetta art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2319,
+        "id": 2919,
         "prompt": "Hsiao-Ron Cheng art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2320,
+        "id": 2920,
         "prompt": "Ilya Kuvshinov art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2321,
+        "id": 2921,
         "prompt": "Joshua Middleton art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2322,
+        "id": 2922,
         "prompt": "Krenz Cushart art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2323,
+        "id": 2923,
         "prompt": "Lois Van Baarle art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2324,
+        "id": 2924,
         "prompt": "Makoto Shinkai art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2325,
+        "id": 2925,
         "prompt": "Rossdraws art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2326,
+        "id": 2926,
         "prompt": "Wenjun Lin art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2327,
+        "id": 2927,
         "prompt": "Anna Dittmann art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2328,
+        "id": 2928,
         "prompt": "Agnes Cecile art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2329,
+        "id": 2929,
         "prompt": "Alphonse Mucha art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2330,
+        "id": 2930,
         "prompt": "Audrey Kawasaki art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2331,
+        "id": 2931,
         "prompt": "Boris Vallejo art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2332,
+        "id": 2932,
         "prompt": "Carne Griffiths art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2333,
+        "id": 2933,
         "prompt": "Conrad Roset art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2334,
+        "id": 2934,
         "prompt": "JC Leyendecker art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2335,
+        "id": 2935,
         "prompt": "Joseph Lorusso art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2336,
+        "id": 2936,
         "prompt": "Jovana Rikalo art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2337,
+        "id": 2937,
         "prompt": "Karol Bak art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2338,
+        "id": 2938,
         "prompt": "Marco Mazzoni art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2339,
+        "id": 2939,
         "prompt": "Miho Hirano art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2340,
+        "id": 2940,
         "prompt": "Rebeca Saray art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2341,
+        "id": 2941,
         "prompt": "Robert McGinnis art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2342,
+        "id": 2942,
         "prompt": "Russ Mills art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2343,
+        "id": 2943,
         "prompt": "Tom Bagshaw art",
         "model": "Stable Diffusion",
         "consistency_score": 10,
         "cached": true
     },
     {
-        "id": 2344,
+        "id": 2944,
         "prompt": "Tristan Eaton art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2345,
+        "id": 2945,
         "prompt": "Ed Mell art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2346,
+        "id": 2946,
         "prompt": "Jessica Rossier art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2347,
+        "id": 2947,
         "prompt": "Hubert Robert art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2348,
+        "id": 2948,
         "prompt": "Ian McQue art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2349,
+        "id": 2949,
         "prompt": "Marc Simonetti art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2350,
+        "id": 2950,
         "prompt": "Raphael Lacoste art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2351,
+        "id": 2951,
         "prompt": "Bernie Wrightson art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2352,
+        "id": 2952,
         "prompt": "H.R. Giger art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2353,
+        "id": 2953,
         "prompt": "Richard Corben art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2354,
+        "id": 2954,
         "prompt": "Wayne Barlowe art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2355,
+        "id": 2955,
         "prompt": "Zdzislaw Beksinski art",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2356,
+        "id": 2956,
         "name": "Women in the mounatins artistic painting",
         "prompt": "cinematic, detailed, atmospheric, epic, concept art background mountains  cinematic epic + rule of thirds | 3 5 mm, 8 k,  atmospheric landscape (Agnes Cecile)",
         "model": "Stable Diffusion",
@@ -17173,602 +17173,602 @@ var data = [
         "cached": true
     },
     {
-        "id": 2357,
+        "id": 2957,
         "prompt": "Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2358,
+        "id": 2958,
         "prompt": "Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2358,
+        "id": 2958,
         "prompt": "Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2359,
+        "id": 2959,
         "prompt": "Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2360,
+        "id": 2960,
         "prompt": "Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha, artstation",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2361,
+        "id": 2961,
         "prompt": "Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha, artstation, highly detailed, sharp focus",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2362,
+        "id": 2962,
         "prompt": "Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha, artstation, highly detailed, sharp focus, sci-fi, stunningly beautiful, dystopian",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2363,
+        "id": 2963,
         "prompt": "Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha, artstation, highly detailed, sharp focus, sci-fi, stunningly beautiful, dystopian, iridescent gold",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2364,
+        "id": 2964,
         "prompt": "Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha, artstation, highly detailed, sharp focus, sci-fi, stunningly beautiful, dystopian, iridescent gold, cinematic lighting, dark",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2365,
+        "id": 2965,
         "prompt": "dog, autumn in paris, ornate, beautiful, atmosphere, vibe, mist, smoke, fire, chimney, rain, wet, pristine, puddles, melting, dripping, snow, creek, lush, ice, bridge, forest, roses, flowers, by stanley artgerm lau, greg rutkowski, thomas kindkade, alphonse mucha, loish, norman rockwell.",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2366,
+        "id": 2966,
         "prompt": "henry asencio",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2367,
+        "id": 2967,
         "prompt": "Henry asencio, Josephine Wall",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2368,
+        "id": 2968,
         "prompt": "wide angle view of castle, blue sky background",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2369,
+        "id": 2969,
         "prompt": "a young female with blue eyes, highlights in hair, sitting outside restaurant, wearing a white outfit, side light",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2370,
+        "id": 2970,
         "prompt": "a young female with brown eyes, highlights in hair, sitting outside restaurant, wearing a white outfit, side light",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2371,
+        "id": 2971,
         "prompt": "full body taylor swift in future high tech dystopian city, digital painting",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2372,
+        "id": 2972,
         "prompt": "digital painting of [Emma Watson:Taylor Swift: 0.6] by Alphonse Mucha. (30 steps)",
         "model": "Stable Diffusion",
         "consistency_score": 7,
         "cached": true
     },
     {
-        "id": 2373,
+        "id": 2973,
         "prompt": "iron man cooking in kitchen Style-Empire.",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2374,
+        "id": 2974,
         "prompt": "strong warrior princess centered key visual intricate highly detailed breathtaking beauty precise lineart vibrant comprehensive cinematic Carne Griffiths Conrad Roset",
         "model": "Stable Diffusion",
         "consistency_score:": 9,
         "cached": true
     },
     {
-        "id": 2375,
+        "id": 2975,
         "prompt": "a portrait of an old coal miner in 19th century, beautiful painting with highly detailed face by greg rutkowski and magali villanueve",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2376,
+        "id": 2976,
         "prompt": "highly detailed portrait of pierce brisnan as old sailor, by Dustin Nguyen, Akihiko Yoshida, Greg Tocchini, Greg Rutkowski, Cliff Chiang, 4k resolution, Dishonored inspired, bravely default inspired, vibrant but dreary red, black and white color scheme!!!, epic extreme long shot, dark mood and strong backlighting, volumetric lights, smoke volutes, artstation HQ, unreal engine, octane renderer, HQ, 8K",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2377,
+        "id": 2977,
         "prompt": "portrait art of blade runner 8 k ultra realistic, lens flare, atmosphere, glow, detailed, intricate, full of colour, cinematic lighting, trending on artstation, 4 k, hyperrealistic, focused, extreme details, unreal engine 5, cinematic, masterpiece",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2378,
+        "id": 2978,
         "prompt": "Beautiful anime painting of solarpunk summer chill day, by tim okamura, victor nizovtsev, greg rutkowski, noah bradley. trending on artstation, 8k, masterpiece, graffiti paint, fine detail, full of color, intricate detail, golden ratio illustration Steps: 50, Sampler: DPM2 a Karras, CFG scale: 7, Seed: 3410174956, Size: 512x768, Model hash: a2a802b2",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2379,
+        "id": 2979,
         "prompt": "painted portrait of rugged zeus, god of thunder, greek god, white hair, masculine, mature, handsome, upper body, muscular, hairy torso, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by gaston bussiere and alphonse mucha",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2380,
+        "id": 2980,
         "prompt": "Portrait of nathalile Portman, dramatic lighting, illustration by greg rutkowski, yoji shinkawa, 4k, digital art, concept art, trending on artstation",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2381,
+        "id": 2981,
         "prompt": "complex 3d render ultra detailed of a beautiful porcelain profile woman android face, cyborg, robotic parts, 150 mm, beautiful studio soft light, rim light, vibrant details, luxurious cyberpunk, lace, hyperrealistic, anatomical, facial muscles, cable electric wires, microchip, elegant, beautiful background, octane render, H.R. Giger style, 8k",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2382,
+        "id": 2982,
         "prompt": "a highly detailed matte painting of a man on a hill watching a rocket launch in the distance by studio ghibli, makoto shinkai, by artgerm, by wlop, by greg rutkowski, volumetric lighting, octane render, 4 k resolution, trending on artstation, masterpiece",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2383,
+        "id": 2983,
         "prompt": "a portrait of an old coal miner in 19th century, beautiful painting with highly detailed face by greg rutkowski and magali villanueve",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2384,
+        "id": 2984,
         "prompt": "store full of curious collectibles :: incredible, anime, Digital 2D, animated by Kyoto Animation, Studio Ghibli, Miyazaki, AKIRA art style, beautiful, gorgeous, dramatic lighting, rule of thirds, perfect composition, trending on ArtStation, 4k --ar 1:2 --quality 2",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2385,
+        "id": 2985,
         "prompt": "oil painting with heavy impasto of a pirate ship and its captain, cosmic horror painting, elegant intricate artstation concept art by craig mullins detailed",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2386,
+        "id": 2986,
         "prompt": "portrait Anime black girl cute-fine-face, pretty face, realistic shaded Perfect face, fine details. Anime. realistic shaded lighting by Ilya Kuvshinov Giuseppe Dangelico Pino and Michael Garmash and Rob Rey, IAMAG premiere, WLOP matte print, cute freckles, masterpiece",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2387,
+        "id": 2987,
         "prompt": "young Disney socialite wearing a beige miniskirt, dark brown turtleneck sweater, small neckless, cute-fine-face, anime. illustration, realistic shaded perfect face, brown hair, grey eyes, fine details, realistic shaded lighting by ilya kuvshinov giuseppe dangelico pino and michael garmash and rob rey, iamag premiere, wlop matte print, 4k resolution, a masterpiece",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2388,
+        "id": 2988,
         "prompt": "Cute small cat sitting in a movie theater eating chicken wiggs watching a movie ,unreal engine, cozy indoor lighting, artstation, detailed, digital painting,cinematic,character design by mark ryden and pixar and hayao miyazaki, unreal 5, daz, hyperrealistic, octane render",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2389,
+        "id": 2989,
         "prompt": "Cute small dog sitting in a movie theater eating popcorn watching a movie ,unreal engine, cozy indoor lighting, artstation, detailed, digital painting,cinematic,character design by mark ryden and pixar and hayao miyazaki, unreal 5, daz, hyperrealistic, octane render",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2390,
+        "id": 2990,
         "prompt": "fox bracelet made of buckskin with fox features, rich details, fine carvings, studio lighting",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2391,
+        "id": 2991,
         "prompt": "crane buckskin bracelet with crane features, rich details, fine carvings, studio lighting",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2392,
+        "id": 2992,
         "prompt": "london luxurious interior living-room, light walls",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2393,
+        "id": 2993,
         "prompt": "Parisian luxurious interior penthouse bedroom, dark walls, wooden panels",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2394,
+        "id": 2994,
         "prompt": "cute girl, crop-top, blond hair, black glasses, stretching, with background by greg rutkowski makoto shinkai kyoto animation key art feminine mid shot",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2395,
+        "id": 2995,
         "prompt": "houses in front, houses background, straight houses, digital art, smooth, sharp focus, gravity falls style, doraemon style, shinchan style, anime style",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2396,
+        "id": 2996,
         "prompt": "Simplified technical drawing, Leonardo da Vinci, Mechanical Dinosaur Skeleton, Minimalistic annotations, Hand-drawn illustrations, Basic design and engineering, Wonder and curiosity",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2397,
+        "id": 2997,
         "prompt": "High quality 8K painting impressionist style of a Japanese modern city street with a girl on the foreground wearing a traditional wedding dress with a fox mask, staring at the sky, daylight",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2398,
+        "id": 2998,
         "prompt": "a landscape from the Moon with the Earth setting on the horizon, realistic, detailed",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2399,
+        "id": 2999,
         "prompt": "Isometric Atlantis city,great architecture with columns, great details, ornaments,seaweed, blue ambiance, 3D cartoon style, soft light, 45\u00b0 view",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2400,
+        "id": 3000,
         "prompt": "A hyper realistic avatar of a guy riding on a black honda cbr 650r in leather suit,high detail, high quality,8K,photo realism",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2401,
+        "id": 3001,
         "prompt": "the street of amedieval fantasy town, at dawn, dark, 4k, highly detailed",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2402,
+        "id": 3002,
         "prompt": "overwhelmingly beautiful eagle framed with vector flowers, long shiny wavy flowing hair, polished, ultra detailed vector floral illustration mixed with hyper realism, muted pastel colors, vector floral details in background, muted colors, hyper detailed ultra intricate overwhelming realism in detailed complex scene with magical fantasy atmosphere, no signature, no watermark",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2403,
+        "id": 3003,
         "prompt": "a highly detailed matte painting of a man on a hill watching a rocket launch in the distance by studio ghibli, makoto shinkai, by artgerm, by wlop, by greg rutkowski, volumetric lighting, octane render, 4 k resolution, trending on artstation, masterpiece   | hyperrealism| highly detailed| insanely detailed| intricate| cinematic lighting| depth of field",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2404,
+        "id": 3004,
         "prompt": "electronik robot and ofice ,unreal engine, cozy indoor lighting, artstation, detailed, digital painting,cinematic,character design by mark ryden and pixar and hayao miyazaki, unreal 5, daz, hyperrealistic, octane render",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2405,
+        "id": 3005,
         "prompt": "exquisitely intricately detailed illustration, of a small world with a lake and a rainbow, inside a closed glass jar.",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2406,
+        "id": 3006,
         "prompt": "cute toy owl made of suede, geometric accurate, relief on skin, plastic relief surface of body, intricate details, cinematic,",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2407,
+        "id": 3007,
         "prompt": "Cute small Fox sitting in a movie theater eating popcorn watching a movie ,unreal engine, cozy indoor lighting, artstation, detailed, digital painting,cinematic,character design by mark ryden and pixar and hayao miyazaki, unreal 5, daz, hyperrealistic, octane render",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2408,
+        "id": 3008,
         "prompt": "futuristic lighthouse, flash light, hyper realistic, epic composition, cinematic, landscape vista photography, landscape veduta photo & tdraw, detailed landscape painting rendered in enscape, miyazaki, 4k detailed post processing, unreal engineered",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2409,
+        "id": 3009,
         "prompt": "underwater world, plants, flowers, shells, creatures, high detail, sharp focus, 4k",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2410,
+        "id": 3010,
         "prompt": "best high quality landscape, in the morning light, Overlooking TOKYO beautiful city with Fujiyama\uff0c from a tall house, by greg rutkowski and thomas kinkade,Trending on artstationmakoto shinkai style",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2411,
+        "id": 3011,
         "prompt": "Tiny cute isometric living room in a cutaway box, soft smooth lighting, soft colors, yellow and blue color scheme, soft colors, 20mm lens, 3d blender render",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2412,
+        "id": 3012,
         "prompt": "industrial age, (pocket watch), 35mm, sharp, high gloss, brass, gears wallpaper, cinematic atmosphere, panoramic",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2413,
+        "id": 3013,
         "prompt": "picture of dimly lit living room, minimalist furniture, vaulted ceiling, huge room, floor to ceiling window with an ocean view, nighttime",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2414,
+        "id": 3014,
         "prompt": "masterpiece, best quality, bestquality,Amazing,beautiful detailed eyes,1boy,1chibi,bird wings,finely detail,Depth of field,extremelydetailed CG unity 8k wallpaper,masterpiece, full body,(vtuberminato aqua),green hair and black hair, blu overcoat, centre parting, art book, trees and sea in the back grand ,red eyes, smile, circular eyebrow,fox ears, I really want to stay at your house, Yoji Shinkawa",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2415,
+        "id": 3015,
         "prompt": "dark room with volumetric light god rays shining through window onto stone fireplace in front of cloth couch",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2416,
+        "id": 3016,
         "prompt": "futuristic tree house, hyper realistic, epic composition, cinematic, landscape vista photography by Carr Clifton & Galen Rowell, Landscape veduta photo by Dustin Lefevre & tdraw, detailed landscape painting by Ivan Shishkin, rendered in Enscape, Miyazaki, Nausicaa Ghibli, 4k detailed post processing, unreal engine",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2417,
+        "id": 3017,
         "prompt": "a full page design of spaceship engine, black and bronze paper, intricate, highly detailed, epic, infographic, marginalia \u2013ar 9:16",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2418,
+        "id": 3018,
         "prompt": "pikachu eating spagetti, Antonio J. Manzanedo",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2419,
+        "id": 3019,
         "prompt": "A beautiful painting of water spilling out of a broken pot, earth colored clay pot, vibrant background, by greg rutkowski and thomas kinkade, Trending on artstation, 8k, hyperrealistic, extremely detailed",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2420,
+        "id": 3020,
         "prompt": "Detailed oil painting William Adolphe Beaugereau starcraft 2 marine",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2421,
+        "id": 3021,
         "prompt": "A dream of a distant galaxy, by Caspar David Friedrich, matte painting trending on artstation HQ",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2422,
+        "id": 3022,
         "prompt": "the perfect bonsai",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2423,
+        "id": 3023,
         "prompt": "luxus supercar in drive way of luxus villa in black dark modern house with sunlight black an white modern",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2424,
+        "id": 3024,
         "prompt": "Luminism is an American landscape painting style of the 1850s to 1870s, characterized by effects of light in landscape, through the use of aerial perspective and the concealment of visible brushstrokes. Luminist landscapes emphasize tranquility, and often depict calm, reflective water and a soft, hazy sky. Luminist paintings with their smaller size evoke a quiet spirituality based on closely observed natural phenomena, especially the quality of light. Trending on artstation ...",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2425,
+        "id": 3025,
         "prompt": "kitchen dish washer isometric",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2426,
+        "id": 3026,
         "prompt": "jelmer siekmans, diffuse lighting, fantasy, intricate elegant highly detailed lifelike photorealistic digital painting, goku",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2427,
+        "id": 3027,
         "prompt": "alien drophips loitering among the new york skyscrapers",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2428,
+        "id": 3028,
         "prompt": "Gandalf from Lord of the Rings, diffuse lighting, fantasy, intricate elegant highly detailed lifelike photorealistic digital painting, artstation",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2429,
+        "id": 3029,
         "prompt": "Cute darth vader style minion, holidays in Paris, unreal engine, octane render, 4k",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2430,
+        "id": 3030,
         "prompt": "highly detailed albert einstein playing minecraft, epic laboratory office, shelves with detailed items in background, ((long shot)), highly detailed realistic painting by grandmaster, unreal engine, octane render, 4k, by artgerm and Drew Struzan and Krenz Cushart, trending on artstation",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2431,
+        "id": 3031,
         "prompt": "zeus, diffuse lighting, mythology, intricate elegant highly detailed lifelike photorealistic realistic painting, long shot, studio lighting, by artgerm",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2432,
+        "id": 3032,
         "prompt": "Black adventure van, geared out, apocalyptic, dystopian van, realistic, roof rack, in dark abandoned neighborhood, van geared out",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2433,
+        "id": 3033,
         "prompt": "a plane flying over planet low poly",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2434,
+        "id": 3034,
         "prompt": "Mad Max (movie) fighting Dinosaur jurassic park",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2435,
+        "id": 3035,
         "prompt": "french revolution , go pro footage , hyper realistic",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2436,
+        "id": 3036,
         "prompt": "higly detailed, majestic royal tall ship on a calm sea,realistic painting, by Charles Gregory Artstation and Antonio Jacobsen and Edward Moran, (long shot), clear blue sky, intricated details, 4k",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2437,
+        "id": 3037,
         "prompt": "smooth meat table, restaurant, paris, elegant, lights",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2438,
+        "id": 3038,
         "prompt": "Ethereal gardens of marble built in a shining teal river in the desert, gorgeous ornate multi-tiered fountain, Greek and Spanish architecture, by ivan aivazovsky and syd mead and pieter claesz and paul delaroche and alma tadema and august malmstrom and adolf hiremy hirschl, hyperrealistic, volumetric light, octane render",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2439,
+        "id": 3039,
         "prompt": "very detailed, color, 100mm, (realistic photo:1.2), (photo portrait: 1.2), [amber heard:emma watson:0.5], futuristic car, white leather dress, 4k, city, busy market in japan, liam wong, blade runner 2049",
         "model": "Stable Diffusion",
         "consistency_score": 3,
         "cached": true
     },
     {
-        "id": 2440,
+        "id": 3040,
         "prompt": "eye level shot, (dome shaped:1.2) large temple, front gate, surrounded by tall futuristic cyberpunk buildings, 4k, artstation, blade runner, sunlight",
         "model": "Stable Diffusion",
         "consistency_score": 10,
         "cached": true
     },
     {
-        "id": 2441,
+        "id": 3041,
         "prompt": "a futuristic bedroom with large curved ceiling,  high windows,  (futuristic decor: 1), looking out to a far future cityscape, sunny outside, scifi, (neon cyberpunk light:1.0), blade runner, (hologram:1.4)",
         "model": "Stable Diffusion",
         "consistency_score": 10,
         "cached": true
     },
     {
-        "id": 2442,
+        "id": 3042,
         "prompt": "man in hoodies standing looking out of floor-to-ceiling windows, spacestation 2077, ceiling, beautiful galaxy outside, 4k, artstation, unreal engine, realistic, Futuristic, neon, intricate, vaporwave, futuristic hologram decor",
         "model": "Stable Diffusion",
         "consistency_score": 8,
         "cached": true
     },
     {
-        "id": 2443,
+        "id": 3043,
         "prompt": "still life, thanksgiving turkey meal, fancy candle, wine, gravy, pumpkins, realistic photography, decorative, grapes",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2444,
+        "id": 3044,
         "prompt": "amber heard, (pop art:1.1), colorful spiral patterns, painting, (vibrant color palette:1.2). Intricate. Highly detailed, art by Steve Henderson",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2445,
+        "id": 3045,
         "prompt": "(mage :1.3) in spiral lightning background, perfect beautiful face, realistic, full body, standing on ground, circuit board, in intricate clothing, elegant pose, fantasy, illustration, artstation",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2446,
+        "id": 3046,
         "prompt": "(wizard :1.3) in spiral lightning background, perfect beautiful face, realistic, full body, standing on ground, circuit board, in intricate clothing, elegant pose, fantasy, illustration, artstation",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2447,
+        "id": 3047,
         "prompt": "(warrior :1.3) in spiral lightning background, perfect beautiful face, realistic, full body, standing on ground, circuit board, in intricate clothing, elegant pose, fantasy, illustration, artstation",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2448,
+        "id": 3048,
         "prompt": "(enchanter :1.3) in spiral lightning background, perfect beautiful face, realistic, full body, standing on ground, circuit board, in intricate clothing, elegant pose, fantasy, illustration, artstation",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2449,
+        "id": 3049,
         "prompt": "(assassin :1.3) in spiral lightning background, perfect beautiful face, realistic, full body, standing on ground, circuit board, in intricate clothing, elegant pose, fantasy, illustration, artstation",
         "model": "Stable Diffusion",
         "consistency_score": 4,
         "cached": true
     },
     {
-        "id": 2450,
+        "id": 3050,
         "prompt": "(elf :1.3) in spiral lightning background, perfect beautiful face, realistic, full body, standing on ground, circuit board, in intricate clothing, elegant pose, fantasy, illustration, artstation",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2451,
+        "id": 3051,
         "prompt": "(ranger :1.3) in spiral lightning background, perfect beautiful face, realistic, full body, standing on ground, circuit board, in intricate clothing, elegant pose, fantasy, illustration, artstation",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2452,
+        "id": 3052,
         "prompt": "(summoner :1.3) in spiral lightning background, perfect beautiful face, realistic, full body, standing on ground, circuit board, in intricate clothing, elegant pose, fantasy, illustration, artstation",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2453,
+        "id": 3053,
         "prompt": "close up angled view of glistening oiled, gemstones on dark blue silk with golden threads, ornate, intricate Exquisite details textures highly detailed digital painting, bokeh, dramatic lighting",
         "model": "Stable Diffusion",
         "cached": false
     },
     {
-        "id": 2454,
+        "id": 3054,
         "prompt": "town architecture, river, highly detailed, hyper-detailed architecture, photorealistic, octane render, unreal engine, digital painting hyperdetailed 8k",
         "model": "Stable Diffusion",
         "cached": false
