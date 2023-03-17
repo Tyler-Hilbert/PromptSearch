@@ -17172,4 +17172,113 @@ var data = [
         "consistency_score": 7,
         "cached": true
     },
+    {
+        "id": 2357,
+        "prompt": "Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2358,
+        "prompt": "Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2358,
+        "prompt": "Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2359,
+        "prompt": "Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2360,
+        "prompt": "Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha, artstation",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2361,
+        "prompt": "Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha, artstation, highly detailed, sharp focus",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2362,
+        "prompt": "Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha, artstation, highly detailed, sharp focus, sci-fi, stunningly beautiful, dystopian",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2363,
+        "prompt": "Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha, artstation, highly detailed, sharp focus, sci-fi, stunningly beautiful, dystopian, iridescent gold",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2364,
+        "prompt": "Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha, artstation, highly detailed, sharp focus, sci-fi, stunningly beautiful, dystopian, iridescent gold, cinematic lighting, dark",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2365,
+        "prompt": "dog, autumn in paris, ornate, beautiful, atmosphere, vibe, mist, smoke, fire, chimney, rain, wet, pristine, puddles, melting, dripping, snow, creek, lush, ice, bridge, forest, roses, flowers, by stanley artgerm lau, greg rutkowski, thomas kindkade, alphonse mucha, loish, norman rockwell.",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2366,
+        "prompt": "henry asencio",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2367,
+        "prompt": "Henry asencio, Josephine Wall",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2368,
+        "prompt": "wide angle view of castle, blue sky background",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2369,
+        "prompt": "a young female with blue eyes, highlights in hair, sitting outside restaurant, wearing a white outfit, side light",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2370,
+        "prompt": "a young female with brown eyes, highlights in hair, sitting outside restaurant, wearing a white outfit, side light",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2371,
+        "prompt": "full body taylor swift in future high tech dystopian city, digital painting",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2372,
+        "prompt": "digital painting of [Emma Watson:Taylor Swift: 0.6] by Alphonse Mucha. (30 steps)",
+        "model": "Stable Diffusion",
+        "consistency_score": 7,
+        "cached": true
+    },
+    {
+        "id": 2373,
+        "prompt": "iron man cooking in kitchen Style-Empire.",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
 ]
