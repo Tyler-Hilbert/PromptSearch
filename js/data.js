@@ -17354,4 +17354,322 @@ var data = [
         "model": "Stable Diffusion",
         "cached": false
     },
+    {
+        "id": 2386,
+        "prompt": "portrait Anime black girl cute-fine-face, pretty face, realistic shaded Perfect face, fine details. Anime. realistic shaded lighting by Ilya Kuvshinov Giuseppe Dangelico Pino and Michael Garmash and Rob Rey, IAMAG premiere, WLOP matte print, cute freckles, masterpiece",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2387,
+        "prompt": "young Disney socialite wearing a beige miniskirt, dark brown turtleneck sweater, small neckless, cute-fine-face, anime. illustration, realistic shaded perfect face, brown hair, grey eyes, fine details, realistic shaded lighting by ilya kuvshinov giuseppe dangelico pino and michael garmash and rob rey, iamag premiere, wlop matte print, 4k resolution, a masterpiece",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2388,
+        "prompt": "Cute small cat sitting in a movie theater eating chicken wiggs watching a movie ,unreal engine, cozy indoor lighting, artstation, detailed, digital painting,cinematic,character design by mark ryden and pixar and hayao miyazaki, unreal 5, daz, hyperrealistic, octane render",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2389,
+        "prompt": "Cute small dog sitting in a movie theater eating popcorn watching a movie ,unreal engine, cozy indoor lighting, artstation, detailed, digital painting,cinematic,character design by mark ryden and pixar and hayao miyazaki, unreal 5, daz, hyperrealistic, octane render",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2390,
+        "prompt": "fox bracelet made of buckskin with fox features, rich details, fine carvings, studio lighting",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2391,
+        "prompt": "crane buckskin bracelet with crane features, rich details, fine carvings, studio lighting",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2392,
+        "prompt": "london luxurious interior living-room, light walls",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2393,
+        "prompt": "Parisian luxurious interior penthouse bedroom, dark walls, wooden panels",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2394,
+        "prompt": "cute girl, crop-top, blond hair, black glasses, stretching, with background by greg rutkowski makoto shinkai kyoto animation key art feminine mid shot",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2395,
+        "prompt": "houses in front, houses background, straight houses, digital art, smooth, sharp focus, gravity falls style, doraemon style, shinchan style, anime style",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2396,
+        "prompt": "Simplified technical drawing, Leonardo da Vinci, Mechanical Dinosaur Skeleton, Minimalistic annotations, Hand-drawn illustrations, Basic design and engineering, Wonder and curiosity",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2397,
+        "prompt": "High quality 8K painting impressionist style of a Japanese modern city street with a girl on the foreground wearing a traditional wedding dress with a fox mask, staring at the sky, daylight",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2398,
+        "prompt": "a landscape from the Moon with the Earth setting on the horizon, realistic, detailed",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2399,
+        "prompt": "Isometric Atlantis city,great architecture with columns, great details, ornaments,seaweed, blue ambiance, 3D cartoon style, soft light, 45\u00b0 view",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2400,
+        "prompt": "A hyper realistic avatar of a guy riding on a black honda cbr 650r in leather suit,high detail, high quality,8K,photo realism",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2401,
+        "prompt": "the street of amedieval fantasy town, at dawn, dark, 4k, highly detailed",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2402,
+        "prompt": "overwhelmingly beautiful eagle framed with vector flowers, long shiny wavy flowing hair, polished, ultra detailed vector floral illustration mixed with hyper realism, muted pastel colors, vector floral details in background, muted colors, hyper detailed ultra intricate overwhelming realism in detailed complex scene with magical fantasy atmosphere, no signature, no watermark",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2403,
+        "prompt": "a highly detailed matte painting of a man on a hill watching a rocket launch in the distance by studio ghibli, makoto shinkai, by artgerm, by wlop, by greg rutkowski, volumetric lighting, octane render, 4 k resolution, trending on artstation, masterpiece   | hyperrealism| highly detailed| insanely detailed| intricate| cinematic lighting| depth of field",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2404,
+        "prompt": "electronik robot and ofice ,unreal engine, cozy indoor lighting, artstation, detailed, digital painting,cinematic,character design by mark ryden and pixar and hayao miyazaki, unreal 5, daz, hyperrealistic, octane render",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2405,
+        "prompt": "exquisitely intricately detailed illustration, of a small world with a lake and a rainbow, inside a closed glass jar.",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2406,
+        "prompt": "cute toy owl made of suede, geometric accurate, relief on skin, plastic relief surface of body, intricate details, cinematic,",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2407,
+        "prompt": "Cute small Fox sitting in a movie theater eating popcorn watching a movie ,unreal engine, cozy indoor lighting, artstation, detailed, digital painting,cinematic,character design by mark ryden and pixar and hayao miyazaki, unreal 5, daz, hyperrealistic, octane render",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2408,
+        "prompt": "futuristic lighthouse, flash light, hyper realistic, epic composition, cinematic, landscape vista photography, landscape veduta photo & tdraw, detailed landscape painting rendered in enscape, miyazaki, 4k detailed post processing, unreal engineered",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2409,
+        "prompt": "underwater world, plants, flowers, shells, creatures, high detail, sharp focus, 4k",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2410,
+        "prompt": "best high quality landscape, in the morning light, Overlooking TOKYO beautiful city with Fujiyama\uff0c from a tall house, by greg rutkowski and thomas kinkade,Trending on artstationmakoto shinkai style",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2411,
+        "prompt": "Tiny cute isometric living room in a cutaway box, soft smooth lighting, soft colors, yellow and blue color scheme, soft colors, 20mm lens, 3d blender render",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2412,
+        "prompt": "industrial age, (pocket watch), 35mm, sharp, high gloss, brass, gears wallpaper, cinematic atmosphere, panoramic",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2413,
+        "prompt": "picture of dimly lit living room, minimalist furniture, vaulted ceiling, huge room, floor to ceiling window with an ocean view, nighttime",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2414,
+        "prompt": "masterpiece, best quality, bestquality,Amazing,beautiful detailed eyes,1boy,1chibi,bird wings,finely detail,Depth of field,extremelydetailed CG unity 8k wallpaper,masterpiece, full body,(vtuberminato aqua),green hair and black hair, blu overcoat, centre parting, art book, trees and sea in the back grand ,red eyes, smile, circular eyebrow,fox ears, I really want to stay at your house, Yoji Shinkawa",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2415,
+        "prompt": "dark room with volumetric light god rays shining through window onto stone fireplace in front of cloth couch",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2416,
+        "prompt": "futuristic tree house, hyper realistic, epic composition, cinematic, landscape vista photography by Carr Clifton & Galen Rowell, Landscape veduta photo by Dustin Lefevre & tdraw, detailed landscape painting by Ivan Shishkin, rendered in Enscape, Miyazaki, Nausicaa Ghibli, 4k detailed post processing, unreal engine",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2417,
+        "prompt": "a full page design of spaceship engine, black and bronze paper, intricate, highly detailed, epic, infographic, marginalia \u2013ar 9:16",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2418,
+        "prompt": "pikachu eating spagetti, Antonio J. Manzanedo",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2419,
+        "prompt": "A beautiful painting of water spilling out of a broken pot, earth colored clay pot, vibrant background, by greg rutkowski and thomas kinkade, Trending on artstation, 8k, hyperrealistic, extremely detailed",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2420,
+        "prompt": "Detailed oil painting William Adolphe Beaugereau starcraft 2 marine",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2421,
+        "prompt": "A dream of a distant galaxy, by Caspar David Friedrich, matte painting trending on artstation HQ",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2422,
+        "prompt": "the perfect bonsai",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2423,
+        "prompt": "luxus supercar in drive way of luxus villa in black dark modern house with sunlight black an white modern",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2424,
+        "prompt": "Luminism is an American landscape painting style of the 1850s to 1870s, characterized by effects of light in landscape, through the use of aerial perspective and the concealment of visible brushstrokes. Luminist landscapes emphasize tranquility, and often depict calm, reflective water and a soft, hazy sky. Luminist paintings with their smaller size evoke a quiet spirituality based on closely observed natural phenomena, especially the quality of light. Trending on artstation ...",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2425,
+        "prompt": "kitchen dish washer isometric",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2426,
+        "prompt": "jelmer siekmans, diffuse lighting, fantasy, intricate elegant highly detailed lifelike photorealistic digital painting, goku",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2427,
+        "prompt": "alien drophips loitering among the new york skyscrapers",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2428,
+        "prompt": "Gandalf from Lord of the Rings, diffuse lighting, fantasy, intricate elegant highly detailed lifelike photorealistic digital painting, artstation",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2429,
+        "prompt": "Cute darth vader style minion, holidays in Paris, unreal engine, octane render, 4k",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2430,
+        "prompt": "highly detailed albert einstein playing minecraft, epic laboratory office, shelves with detailed items in background, ((long shot)), highly detailed realistic painting by grandmaster, unreal engine, octane render, 4k, by artgerm and Drew Struzan and Krenz Cushart, trending on artstation",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2431,
+        "prompt": "zeus, diffuse lighting, mythology, intricate elegant highly detailed lifelike photorealistic realistic painting, long shot, studio lighting, by artgerm",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2432,
+        "prompt": "Black adventure van, geared out, apocalyptic, dystopian van, realistic, roof rack, in dark abandoned neighborhood, van geared out",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2433,
+        "prompt": "a plane flying over planet low poly",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2434,
+        "prompt": "Mad Max (movie) fighting Dinosaur jurassic park",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2435,
+        "prompt": "french revolution , go pro footage , hyper realistic",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2436,
+        "prompt": "higly detailed, majestic royal tall ship on a calm sea,realistic painting, by Charles Gregory Artstation and Antonio Jacobsen and Edward Moran, (long shot), clear blue sky, intricated details, 4k",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2437,
+        "prompt": "smooth meat table, restaurant, paris, elegant, lights",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2438,
+        "prompt": "Ethereal gardens of marble built in a shining teal river in the desert, gorgeous ornate multi-tiered fountain, Greek and Spanish architecture, by ivan aivazovsky and syd mead and pieter claesz and paul delaroche and alma tadema and august malmstrom and adolf hiremy hirschl, hyperrealistic, volumetric light, octane render",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
 ]
