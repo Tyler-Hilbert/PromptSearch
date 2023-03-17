@@ -17281,4 +17281,77 @@ var data = [
         "model": "Stable Diffusion",
         "cached": false
     },
+    {
+        "id": 2374,
+        "prompt": "strong warrior princess centered key visual intricate highly detailed breathtaking beauty precise lineart vibrant comprehensive cinematic Carne Griffiths Conrad Roset",
+        "model": "Stable Diffusion",
+        "consistency_score:": 9,
+        "cached": true
+    },
+    {
+        "id": 2375,
+        "prompt": "a portrait of an old coal miner in 19th century, beautiful painting with highly detailed face by greg rutkowski and magali villanueve",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2376,
+        "prompt": "highly detailed portrait of pierce brisnan as old sailor, by Dustin Nguyen, Akihiko Yoshida, Greg Tocchini, Greg Rutkowski, Cliff Chiang, 4k resolution, Dishonored inspired, bravely default inspired, vibrant but dreary red, black and white color scheme!!!, epic extreme long shot, dark mood and strong backlighting, volumetric lights, smoke volutes, artstation HQ, unreal engine, octane renderer, HQ, 8K",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2377,
+        "prompt": "portrait art of blade runner 8 k ultra realistic, lens flare, atmosphere, glow, detailed, intricate, full of colour, cinematic lighting, trending on artstation, 4 k, hyperrealistic, focused, extreme details, unreal engine 5, cinematic, masterpiece",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2378,
+        "prompt": "Beautiful anime painting of solarpunk summer chill day, by tim okamura, victor nizovtsev, greg rutkowski, noah bradley. trending on artstation, 8k, masterpiece, graffiti paint, fine detail, full of color, intricate detail, golden ratio illustration Steps: 50, Sampler: DPM2 a Karras, CFG scale: 7, Seed: 3410174956, Size: 512x768, Model hash: a2a802b2",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2379,
+        "prompt": "painted portrait of rugged zeus, god of thunder, greek god, white hair, masculine, mature, handsome, upper body, muscular, hairy torso, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by gaston bussiere and alphonse mucha",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2380,
+        "prompt": "Portrait of nathalile Portman, dramatic lighting, illustration by greg rutkowski, yoji shinkawa, 4k, digital art, concept art, trending on artstation",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2381,
+        "prompt": "complex 3d render ultra detailed of a beautiful porcelain profile woman android face, cyborg, robotic parts, 150 mm, beautiful studio soft light, rim light, vibrant details, luxurious cyberpunk, lace, hyperrealistic, anatomical, facial muscles, cable electric wires, microchip, elegant, beautiful background, octane render, H.R. Giger style, 8k",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2382,
+        "prompt": "a highly detailed matte painting of a man on a hill watching a rocket launch in the distance by studio ghibli, makoto shinkai, by artgerm, by wlop, by greg rutkowski, volumetric lighting, octane render, 4 k resolution, trending on artstation, masterpiece",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2383,
+        "prompt": "a portrait of an old coal miner in 19th century, beautiful painting with highly detailed face by greg rutkowski and magali villanueve",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2384,
+        "prompt": "store full of curious collectibles :: incredible, anime, Digital 2D, animated by Kyoto Animation, Studio Ghibli, Miyazaki, AKIRA art style, beautiful, gorgeous, dramatic lighting, rule of thirds, perfect composition, trending on ArtStation, 4k --ar 1:2 --quality 2",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
+    {
+        "id": 2385,
+        "prompt": "oil painting with heavy impasto of a pirate ship and its captain, cosmic horror painting, elegant intricate artstation concept art by craig mullins detailed",
+        "model": "Stable Diffusion",
+        "cached": false
+    },
 ]
