@@ -1,79 +1,72 @@
 <!DOCTYPE html>
-<HTML lang="en">
-    <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta charset="UTF-8">
-        <link href = "css/bootstrap.min.css" rel = "stylesheet">
-        <!-- Google tag (gtag.js) -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-HZE5G9J4V7"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HZE5G9J4V7"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-            gtag('config', 'G-HZE5G9J4V7');
-        </script>
-    </head>
-    <body>
-        <div class = "navbar navbar-inverse navbar-static-top">
-            <ul class="nav navbar-nav">
-                <li class="active"><a href="index.html">Prompt Search</a></li>
+        gtag('config', 'G-HZE5G9J4V7');
+    </script>
+</head>
+<body class="bg-gray-900 text-white">
+<div class="bg-gray-800 text-white py-4">
+    <nav class="container mx-auto text-left">
+        <ul class="flex justify-start">
+            <li class="mr-6"><a href="index.html" class="text-xl font-semibold">Prompt Search</a></li>
+        </ul>
+    </nav>
+</div>
+<div class="container mx-auto mt-8 p-6 bg-gray-800 rounded-lg shadow-lg">
+    <div class="bg-gray-700 text-white p-4 rounded-t-lg">
+        <h1 class="text-3xl font-semibold">Prompt Search</h1>
+        <p class="text-gray-300">Finding quality prompts has become a new and growing issue in generative AI.</p>
+        <p class="text-gray-300">PromptSearch solves this by curating a database of quality prompts to search and view cached outputs.</p>
+        <hr class="my-4 border-gray-600">
+    </div>
+    <div class="p-4">
+        <form action="javascript:search()">
+            <div class="mb-4">
+                <input id="prompt-in" type="text" class="border border-gray-600 rounded-xl w-full py-2 px-3 text-black placeholder-gray-400 focus:outline-none focus:ring focus:ring-gray-300" placeholder="Enter prompt">
+            </div>
+            <div class="mb-4">
+                <button class="bg-indigo-600 hover:bg-indigo-700 text-white py-2 px-4 rounded-lg focus:outline-none focus:ring focus:ring-indigo-300">Search for Prompt</button>
+            </div>
+        </form>
+        <div class="mb-4">
+            Examples:
+            <ul class="list-disc list-inside text-gray-300">
+                <li>Battle in the mist</li>
+                <li>Horse in the snow</li>
+                <li>Haunted woods</li>
             </ul>
         </div>
-        <div class="container">
-            <div class="bg-info text-white">
-                <h1>Prompt Search</h1>
-                <p>Finding quality prompts has become a new and growing issue in generative AI.</p>
-                <p>PromptSearch solves this by curating a database of quality prompts to search and view cached outputs.</p>
-                <hr>
-            </div>
-            <div>
-                <form action="javascript:search()">
-                    <div class="form-group">
-                        <input id="prompt-in" type="text" class="form-control" placeholder="Enter prompt">
-                    </div>
-                    <div class="form-group">
-                        <button class="btn btn-default">Search for Prompt</button>
-                    </div>
-                </form>
-                <div class="">
-                    Examples:
-                    <ul>
-                        <li>Battle in the mist</li>
-                        <li>Horse in the snow</li>
-                        <li>Haunted woods</li>
-                    </ul>
-                </div>
-            </div>
-            <table class="table">
-                <tr>
-                    <td>Prompt That Has Been Tested For Quality:</td>
-                    <td id="prompt-out"></td>
-                </tr>
-                <tr>
-                    <td>Model:</td>
-                    <td id="model"></td>
-                </tr>
-            </table>
-            <table>
-                <tr>
-                    <img id="cache-1">
-                </tr>
-                <tr>
-                    <img id="cache-2">
-                </tr>
-                <tr>
-                    <img id="cache-3">
-                </tr>
-                <tr>
-                    <img id="cache-4">
-                </tr>
-            </table>
-        </div>
-				
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
-        <script src = "js/data.js"></script>
-        <script src = "js/prompt.js"></script>
-        <script src = "js/bootstrap.js"></script>
-    </body>
-</HTML>
+    </div>
+    <table class="table-auto w-full">
+        <tr>
+            <td class="font-semibold">Prompt That Has Been Tested For Quality:</td>
+            <td id="prompt-out"></td>
+        </tr>
+        <tr>
+            <td class="font-semibold">Model:</td>
+            <td id="model"></td>
+        </tr>
+    </table>
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mt-4">
+        <img id="cache-1" class="w-full h-auto rounded-lg">
+        <img id="cache-2" class="w-full h-auto rounded-lg">
+        <img id="cache-3" class="w-full h-auto rounded-lg">
+        <img id="cache-4" class="w-full h-auto rounded-lg">
+    </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+<script src="js/data.js"></script>
+<script src="js/prompt.js"></script>
+</body>
+</html>
