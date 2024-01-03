@@ -7,4 +7,4 @@ Check out our demo, but please be patient, our database is still small and most 
 https://tyler-hilbert.github.io/PromptSearch
 
 ### Update  
-This project is no longer maintained.    
+The dataset in this project is no longer maintained.    
